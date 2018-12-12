@@ -3156,7 +3156,23 @@
             "user_name": "Bin Li",
             "emails": ["binblee@gmail.com"]
         },
-        {
+		{
+           "launchpad_id": "bing",
+		   "zanata_id": "andibing",
+		   "github_id": "andibing",
+           "companies": [
+               {
+                   "company_name": "*independent",
+                   "end_date": null
+               },
+                  
+           ],
+           "user_name": "Andi Chandler",
+           "emails": [
+               "andi@gowling.com"
+           ]
+	    },
+		{
             "launchpad_id": "binoy.v",
             "companies": [
                 {
@@ -16358,6 +16374,18 @@
             ],
             "user_name": "Magesh GV",
             "emails": ["mageshgv@gmail.com", "magesh.gv@oneconvergence.com"]
+        },
+        {
+            "launchpad_id": "magicyang168",
+            "github_id": "magicyang168",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jianbin Yang",
+            "emails": ["magicyang168@163.com", "yangjianbin@beyondcent.com"]
         },
         {
             "launchpad_id": "mahati-chamarthy",
